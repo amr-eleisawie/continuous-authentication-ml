@@ -12,3 +12,6 @@ models/
 .ipynb_checkpoints/
 *.egg-info/
 .DS_Store
+/data/
+/continuous_auth_dataset.csv
+work/*.log

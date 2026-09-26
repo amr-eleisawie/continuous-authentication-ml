@@ -1,0 +1,2 @@
+-r vercel_app/requirements.txt
+streamlit
